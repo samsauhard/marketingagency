@@ -1,0 +1,17 @@
+{
+  "name": "wc",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "main": "app.1930c7acbffa7da89a2f.js",
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
